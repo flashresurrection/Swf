@@ -25,8 +25,6 @@ To use the SWF files in this repository, follow these steps:
 
 3. Click on the "Download" button to download the SWF file to your local machine.
 
-4. You can then open the downloaded SWF file using a compatible SWF player or a modern web browser with Flash Player emulation (such as [Ruffle](https://github.com/ruffle-rs/ruffle)).
-
 Please note that SWF files may require specific player versions or additional dependencies to work properly. Refer to the documentation or accompanying files, if available, for any special instructions.
 
 ## Contributing
