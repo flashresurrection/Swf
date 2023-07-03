@@ -1,6 +1,6 @@
 # SWF Files Repository
 
-Welcome to the SWF Files Repository! This repository is dedicated to hosting a collection of SWF (Shockwave Flash) files. SWF files are commonly used for multimedia, animations, and games on the web.
+Welcome to the SWF Files Repository! This repository is dedicated to hosting a collection of SWF (Shockwave Flash) files. These files are also being hosted on https://flashresurrection.github.io/
 
 ## Table of Contents
 
